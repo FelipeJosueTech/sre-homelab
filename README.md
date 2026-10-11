@@ -4,7 +4,7 @@
 
 ### rotina de backups do diretorio
 
-'''bash
+''' console
 /sre-homelab/backup_automation/backup.completo.sh
 '''
 
